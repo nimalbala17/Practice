@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IPv4Management/.idea/IPv4Management.iml" filepath="$PROJECT_DIR$/../IPv4Management/.idea/IPv4Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice_project.iml" filepath="$PROJECT_DIR$/.idea/Practice_project.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/chromedriver/.idea/chromedriver.iml" filepath="$USER_HOME$/PycharmProjects/chromedriver/.idea/chromedriver.iml" />
+    </modules>
+  </component>
+</project>
